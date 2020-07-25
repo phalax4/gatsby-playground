@@ -57,3 +57,5 @@ Start from [this point](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thomaswangio/gatsby-personal-starter-blog)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+https://stackoverflow.com/questions/62414838/gatsby-js-blog-is-appending-blog-twice-to-a-post
